@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+
+<html>
+           <title style="color:rgb(0,255,0)">EL CAMBIO TECNOLOGICO</title>
+
+            <body>
+
+             <H1 style="color:red"><center>EL CAMBIO TECNOLOGICO</center></H1>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+      </body>
+
+    <body bgcolor="black">
+
+  <blockquote style="color:turquoise"><font size="6">
+El cambio tecnológico, puede ser considerado como un mecanismo que promueve el crecimiento económico, que incrementa la calidad de los productos, que reestructura los estándares con los que la organización trabaja y mejora el nivel de competitividad en la organización,
+ pero también puede ser visto como un instrumento. La tecnología influye con gran importancia en la economía ya que la innovación tecnológica ha servido de gran utilidad para alcanzar mayores costas de competitividad en los mercados internacionales.
+  La tecnología es el factor que más influye actualmente en el aumento de la competitividad de los países.
+  <form action="file:///D:/Pagina%20web%20del%20cambio%20tecnologico/El%20cambio%20tecnologico%20link.html">
+<button type="submit">ver mas.</button>
+ </blockquote></b>
+
+
+
+<center><img src="D:/Pagina web del cambio tecnologico/images.jpg" alt="Tecnologia " width="500" height="500" /></center>
+
+
+ <blockquote style="color:turquoise"><font size="6">
+ El cambio tecnológico tiene como referencia nuevas tecnologías, formas de uso,
+ nuevas reglamentaciones y nuevos productos derivados de la tecnología.
+ Es un proceso temporal y acumulativo, que incrementa la habilidad de los grupos para resolver sus problemas sociales,
+ económicos y culturales.
+  </blockquote></b>
+
+
+
+
+<center><img src="D:/Pagina web del cambio tecnologico/descarga.jpg" alt="Tecnologia " width="500" height="300" /></center>
+
+ <title style="color:rgb(0,255,0)">Cambio tecnológico y sus efectos en el mercado de trabajo</title>
+
+
+<blockquote style="color:green"><font size="6"> <div id="que imppulso el cambio tecnologico">
+<blockquote style="color:Green"><font size="6"><h1>Que impulso el cambio tecnologico</h1>
+<img src="D:/Pagina web del cambio tecnologico/1515380416420.jpg" alt="Tecnologia " width="500 px"align="left" />
+<blockquote style="color:turquoise"><font size="6"><p>El cambio tecnológico ha impuesto, en el ámbito mundial en las últimas tres décadas,
+la pauta en una creciente demanda relativa de trabajadores con mayor formación y
+habilidades, lo que explica más de una tercera parte de los cambios producidos en
+la estructura laboral de los países (Autor et al., 2003, 2008). En Estados Unidos
+llega a explicar entre 30 y 40% de dichos cambios, y de acuerdo con evidencia reciente,
+se asume que las habilidades cognitivas de los trabajadores pasan a jugar un papel central
+en la contratación por parte de las empresas (Bowles et al., 2001). La creciente utilización
+de sistemas informáticos y de computadoras en los centros de trabajo ha sido esencial en este proceso
+</p>
+
+</div>
+
+<center>  <video src="CAMBIO TECNOLOGICO(480P).mp4"controls width="800" ></video></center>
+
